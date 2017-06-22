@@ -1,3 +1,12 @@
+BOTS WORKS ON: 
+- gaver.io
+- cellcraft.io
+- nbk.io
+- mgar.io
+- astr.io
+- galx.io
+- rata.io
+
 1- To use Bots in Mgar.io You Have To Use Http Proxies so Update ProxiesHttp.txt
 2- To use Bots in all other games that are not MGAR you can use Proxies Socks so Update ProxiesSocks.txt
 
